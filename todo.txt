@@ -1,0 +1,30 @@
+done> make custom favicon
+done> make seperate instance of Chatbot for the RecruiterPage.
+done> add dialogue steps into Recruiter-page.
+get data back from mongodb and make it show on RecruiterPage
+add data variables back into chat dialogue at appropriate areas.
+create new db instance
+implement hex url?
+
+a way for user to change / update data?
+put something inside recruiter speech bubbles?
+
+
+@susana
+
+change header color on chatbot (hard to see white text on pink)?
+change font size in chatbot?
+put links in all pages to go back to home page or back buttons?
+change layout so that chatbot does not hide the bubble menu and illustration on small screens
+what to put inside about page?
+
+
+
+before deployment:
+
+
+Remove all commented out code.
+Add a few comments explaining code.
+Remove all unused components and files.
+
+

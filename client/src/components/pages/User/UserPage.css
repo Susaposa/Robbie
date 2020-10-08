@@ -1,0 +1,26 @@
+.myNavLinkAbout{
+  color: #410074  !important;
+  font:  20px Avenir sans-serif;
+  text-decoration-line: none;
+  text-align: center;
+  border-radius: 20px 20px 20px 0;
+  background-color: white;
+}
+
+.myNavLinkUser2{
+  color: #410074  !important;
+  font:  30px Avenir sans-serif;
+  text-decoration-line: none;
+  text-align: center;
+  border-radius: 20px 20px 20px 0;
+  background-color: white;
+}
+
+.myNavLinkRecruiter{
+  color: #410074  !important;
+  font:  20px Avenir sans-serif;
+  text-decoration-line: none;
+  text-align: center;
+  border-radius: 20px 20px 20px 0;
+  background-color: white;
+}

@@ -1,0 +1,25 @@
+.img-fluid {
+    max-width: 120%;
+    height: 30%;
+}
+
+.BotImage{
+    height: 100%;
+
+}
+
+.myNavBar{
+    width: 100%;
+}
+
+.myNavLink{
+    color: #410074  !important;
+    font:  80px Avenir sans-serif;
+    text-decoration-line: none;
+    text-align: center;
+    border-radius: 45px 45px 45px 0;
+    background-color: white;
+
+
+    
+}

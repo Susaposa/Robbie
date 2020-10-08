@@ -1,0 +1,30 @@
+{
+  "name": "mernstarter",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "bash ./client/build.sh",
+    "start": "node server.js"
+  },
+  "cacheDirectories": [
+    "client/node_modules",
+    "node_modules"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "mongodb": "3.1.1",
+    "nodemon": "1.18.7",
+    "react-datepicker": "^3.0.0",
+    "react-bootstrap": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "express": "4.16.3",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-simple-chatbot": "^0.6.1",
+    "styled-components": "^5.1.1"
+
+   
+  }
+}
